@@ -9,7 +9,7 @@ https://github.com/gleb-kosteiko/salesforce-einstein-sentiment-analysis
 
 The primary configuration that needs to be performed is setting values int he EinsteinAPISettings custom setting. Here is example image of setting this up:
 
-![alt text](https://github.com/thedges/CaseEinsteinSentiment/blob/master/CaseEinsteinSentiment.png "Sample Image")
+![alt text](https://github.com/thedges/CaseEinsteinSentiment/blob/master/EinsteinAPISettings.png "Sample Image")
 
 <a href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce"

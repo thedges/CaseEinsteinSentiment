@@ -7,7 +7,7 @@ I "borrowed" approach and inspiration from these two articles:
 [https://shrutisridharan.wordpress.com/2017/08/22/sentiment-analysis-using-salesforce-einstein/](https://shrutisridharan.wordpress.com/2017/08/22/sentiment-analysis-using-salesforce-einstein/)
 https://github.com/gleb-kosteiko/salesforce-einstein-sentiment-analysis
 
-The primary configuration that needs to be performed is setting values int he EinsteinAPISettings custom setting. Here is example image of setting this up:
+The primary configuration that needs to be performed is setting values in the EinsteinAPISettings custom setting. Here is example image of setting this up:
 
 ![alt text](https://github.com/thedges/CaseEinsteinSentiment/blob/master/EinsteinAPISettings.png "Sample Image")
 

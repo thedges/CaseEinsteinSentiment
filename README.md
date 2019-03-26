@@ -1,5 +1,7 @@
 # CaseEinsteinSentiment
 
+THIS SOFTWARE IS COVERED BY [THIS DISCLAIMER](https://raw.githubusercontent.com/thedges/Disclaimer/master/disclaimer.txt).
+
 This package contains a Case trigger to perform Einstein Sentiment analysis on the Case description field. Based on the sentiment (positive, neutral, negative), it will set the Case priority to Low, Medium, High respectively.
 
 I "borrowed" approach and inspiration from these two articles:
